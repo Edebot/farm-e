@@ -1,6 +1,13 @@
 # farm-e
 FARM-E project
 
+Kedves Szervezők!
+
+A fileok letöltése ebből a releaseből lehetséges:
+
+https://github.com/Edebot/farm-e/releases
+
+
 Kedves Játékos!
 
 A játék inditása a FARM-e.exe file-val lehetséges.
