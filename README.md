@@ -22,4 +22,4 @@ A FARM-e játék kezelése a következő gombokkal lehetséges.
 Jó szórakozást
 Lilus és Ede
 
-A pályázati anyag további filejai a Palyazat mappában vannak.
+A pályázati anyag további filejai a Pályázat megoszott mappájában vannak.
